@@ -9,6 +9,7 @@
 .register{
   height: 25vmin;
   width: 70vmin;
+  border: 2px solid #8AC007;
   border-radius: 2vmin;
 }
 

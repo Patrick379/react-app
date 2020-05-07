@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.register{
+  height: 25vmin;
+  width: 70vmin;
+  border-radius: 2vmin;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
